@@ -40,7 +40,7 @@ pygments==2.19.2
     # via rich
 reorder-python-imports==3.15.0
     # via shell (pyproject.toml)
-requests==2.32.4
+requests==2.32.5
     # via shell (pyproject.toml)
 rich==14.1.0
     # via shell (pyproject.toml)
