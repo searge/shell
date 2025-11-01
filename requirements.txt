@@ -16,7 +16,7 @@ classify-imports==4.2.0
     # via reorder-python-imports
 click==8.3.0
     # via shell (pyproject.toml)
-frozenlist==1.7.0
+frozenlist==1.8.0
     # via
     #   aiohttp
     #   aiosignal
