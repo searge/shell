@@ -44,7 +44,7 @@ requests==2.32.5
     # via shell (pyproject.toml)
 rich==14.3.3
     # via shell (pyproject.toml)
-ruff==0.14.14
+ruff==0.15.4
     # via shell (pyproject.toml)
 urllib3==2.6.3
     # via requests
