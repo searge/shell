@@ -42,7 +42,7 @@ reorder-python-imports==3.16.0
     # via shell (pyproject.toml)
 requests==2.33.1
     # via shell (pyproject.toml)
-rich==14.3.3
+rich==15.0.0
     # via shell (pyproject.toml)
 ruff==0.15.8
     # via shell (pyproject.toml)
