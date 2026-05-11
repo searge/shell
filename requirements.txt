@@ -46,7 +46,7 @@ rich==15.0.0
     # via shell (pyproject.toml)
 ruff==0.15.12
     # via shell (pyproject.toml)
-urllib3==2.6.3
+urllib3==2.7.0
     # via requests
 yarl==1.23.0
     # via aiohttp
